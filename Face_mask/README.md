@@ -1,2 +1,2 @@
 DEMO: 
-  . [https://github.com/achen353/Face-Mask-Detector]  
+  . [https://github.com/Guruprasath-556/Face-Mask-Detector.git]  
